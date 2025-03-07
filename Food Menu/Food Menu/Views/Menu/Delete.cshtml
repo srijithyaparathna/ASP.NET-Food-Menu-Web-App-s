@@ -1,0 +1,23 @@
+﻿@model Food_Menu.Models.Dish
+
+@{
+    ViewData["Title"] = "Delete Dish";
+}
+
+<h2>Delete Dish</h2>
+
+<div class="alert alert-warning">
+    <h4>Are you sure you want to delete this dish?</h4>
+</div>
+
+<div>
+    <h3>@Model.Name</h3>
+    <p><strong>Price:</strong> @Model.Price.ToString("N2") Dollars</p>
+    <img src="@Model.ImageUrl" style="width:50%;" alt="@Model.Name" />
+</div>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>

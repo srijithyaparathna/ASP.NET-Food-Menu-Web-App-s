@@ -1,0 +1,324 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\syapa\\OneDrive\\Desktop\\ASP.NET Food Menu Web App\u0027s\\Food Menu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0930D11-B097-4B7B-92FF-883776D2B7C5}|Food Menu\\Food Menu.csproj|c:\\users\\syapa\\onedrive\\desktop\\asp.net food menu web app\u0027s\\food menu\\food menu\\migrations\\20250307140021_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0930D11-B097-4B7B-92FF-883776D2B7C5}|Food Menu\\Food Menu.csproj|solutionrelative:food menu\\migrations\\20250307140021_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0930D11-B097-4B7B-92FF-883776D2B7C5}|Food Menu\\Food Menu.csproj|c:\\users\\syapa\\onedrive\\desktop\\asp.net food menu web app\u0027s\\food menu\\food menu\\controllers\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0930D11-B097-4B7B-92FF-883776D2B7C5}|Food Menu\\Food Menu.csproj|solutionrelative:food menu\\controllers\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0930D11-B097-4B7B-92FF-883776D2B7C5}|Food Menu\\Food Menu.csproj|c:\\users\\syapa\\onedrive\\desktop\\asp.net food menu web app\u0027s\\food menu\\food menu\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0930D11-B097-4B7B-92FF-883776D2B7C5}|Food Menu\\Food Menu.csproj|solutionrelative:food menu\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0930D11-B097-4B7B-92FF-883776D2B7C5}|Food Menu\\Food Menu.csproj|c:\\users\\syapa\\onedrive\\desktop\\asp.net food menu web app\u0027s\\food menu\\food menu\\data\\menucontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0930D11-B097-4B7B-92FF-883776D2B7C5}|Food Menu\\Food Menu.csproj|solutionrelative:food menu\\data\\menucontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0930D11-B097-4B7B-92FF-883776D2B7C5}|Food Menu\\Food Menu.csproj|c:\\users\\syapa\\onedrive\\desktop\\asp.net food menu web app\u0027s\\food menu\\food menu\\views\\menu\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0930D11-B097-4B7B-92FF-883776D2B7C5}|Food Menu\\Food Menu.csproj|solutionrelative:food menu\\views\\menu\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0930D11-B097-4B7B-92FF-883776D2B7C5}|Food Menu\\Food Menu.csproj|c:\\users\\syapa\\onedrive\\desktop\\asp.net food menu web app\u0027s\\food menu\\food menu\\models\\createdishviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0930D11-B097-4B7B-92FF-883776D2B7C5}|Food Menu\\Food Menu.csproj|solutionrelative:food menu\\models\\createdishviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0930D11-B097-4B7B-92FF-883776D2B7C5}|Food Menu\\Food Menu.csproj|c:\\users\\syapa\\onedrive\\desktop\\asp.net food menu web app\u0027s\\food menu\\food menu\\models\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0930D11-B097-4B7B-92FF-883776D2B7C5}|Food Menu\\Food Menu.csproj|solutionrelative:food menu\\models\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0930D11-B097-4B7B-92FF-883776D2B7C5}|Food Menu\\Food Menu.csproj|c:\\users\\syapa\\onedrive\\desktop\\asp.net food menu web app\u0027s\\food menu\\food menu\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0930D11-B097-4B7B-92FF-883776D2B7C5}|Food Menu\\Food Menu.csproj|solutionrelative:food menu\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0930D11-B097-4B7B-92FF-883776D2B7C5}|Food Menu\\Food Menu.csproj|c:\\users\\syapa\\onedrive\\desktop\\asp.net food menu web app\u0027s\\food menu\\food menu\\models\\dishingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0930D11-B097-4B7B-92FF-883776D2B7C5}|Food Menu\\Food Menu.csproj|solutionrelative:food menu\\models\\dishingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0930D11-B097-4B7B-92FF-883776D2B7C5}|Food Menu\\Food Menu.csproj|c:\\users\\syapa\\onedrive\\desktop\\asp.net food menu web app\u0027s\\food menu\\food menu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0930D11-B097-4B7B-92FF-883776D2B7C5}|Food Menu\\Food Menu.csproj|solutionrelative:food menu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0930D11-B097-4B7B-92FF-883776D2B7C5}|Food Menu\\Food Menu.csproj|c:\\users\\syapa\\onedrive\\desktop\\asp.net food menu web app\u0027s\\food menu\\food menu\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F0930D11-B097-4B7B-92FF-883776D2B7C5}|Food Menu\\Food Menu.csproj|solutionrelative:food menu\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0930D11-B097-4B7B-92FF-883776D2B7C5}|Food Menu\\Food Menu.csproj|c:\\users\\syapa\\onedrive\\desktop\\asp.net food menu web app\u0027s\\food menu\\food menu\\food menu.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F0930D11-B097-4B7B-92FF-883776D2B7C5}|Food Menu\\Food Menu.csproj|solutionrelative:food menu\\food menu.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0930D11-B097-4B7B-92FF-883776D2B7C5}|Food Menu\\Food Menu.csproj|c:\\users\\syapa\\onedrive\\desktop\\asp.net food menu web app\u0027s\\food menu\\food menu\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F0930D11-B097-4B7B-92FF-883776D2B7C5}|Food Menu\\Food Menu.csproj|solutionrelative:food menu\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0930D11-B097-4B7B-92FF-883776D2B7C5}|Food Menu\\Food Menu.csproj|c:\\users\\syapa\\onedrive\\desktop\\asp.net food menu web app\u0027s\\food menu\\food menu\\views\\menu\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0930D11-B097-4B7B-92FF-883776D2B7C5}|Food Menu\\Food Menu.csproj|solutionrelative:food menu\\views\\menu\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0930D11-B097-4B7B-92FF-883776D2B7C5}|Food Menu\\Food Menu.csproj|c:\\users\\syapa\\onedrive\\desktop\\asp.net food menu web app\u0027s\\food menu\\food menu\\views\\menu\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0930D11-B097-4B7B-92FF-883776D2B7C5}|Food Menu\\Food Menu.csproj|solutionrelative:food menu\\views\\menu\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0930D11-B097-4B7B-92FF-883776D2B7C5}|Food Menu\\Food Menu.csproj|c:\\users\\syapa\\onedrive\\desktop\\asp.net food menu web app\u0027s\\food menu\\food menu\\views\\menu\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0930D11-B097-4B7B-92FF-883776D2B7C5}|Food Menu\\Food Menu.csproj|solutionrelative:food menu\\views\\menu\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0930D11-B097-4B7B-92FF-883776D2B7C5}|Food Menu\\Food Menu.csproj|c:\\users\\syapa\\onedrive\\desktop\\asp.net food menu web app\u0027s\\food menu\\food menu\\views\\menu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0930D11-B097-4B7B-92FF-883776D2B7C5}|Food Menu\\Food Menu.csproj|solutionrelative:food menu\\views\\menu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0930D11-B097-4B7B-92FF-883776D2B7C5}|Food Menu\\Food Menu.csproj|c:\\users\\syapa\\onedrive\\desktop\\asp.net food menu web app\u0027s\\food menu\\food menu\\migrations\\20250305011606_initial_migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0930D11-B097-4B7B-92FF-883776D2B7C5}|Food Menu\\Food Menu.csproj|solutionrelative:food menu\\migrations\\20250305011606_initial_migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250307140021_second.cs",
+              "DocumentMoniker": "C:\\Users\\syapa\\OneDrive\\Desktop\\ASP.NET Food Menu Web App\u0027s\\Food Menu\\Food Menu\\Migrations\\20250307140021_second.cs",
+              "RelativeDocumentMoniker": "Food Menu\\Migrations\\20250307140021_second.cs",
+              "ToolTip": "C:\\Users\\syapa\\OneDrive\\Desktop\\ASP.NET Food Menu Web App\u0027s\\Food Menu\\Food Menu\\Migrations\\20250307140021_second.cs",
+              "RelativeToolTip": "Food Menu\\Migrations\\20250307140021_second.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T14:00:22.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\syapa\\OneDrive\\Desktop\\ASP.NET Food Menu Web App\u0027s\\Food Menu\\Food Menu\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Food Menu\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\syapa\\OneDrive\\Desktop\\ASP.NET Food Menu Web App\u0027s\\Food Menu\\Food Menu\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Food Menu\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T13:58:02.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateDishViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\syapa\\OneDrive\\Desktop\\ASP.NET Food Menu Web App\u0027s\\Food Menu\\Food Menu\\Models\\CreateDishViewModel.cs",
+              "RelativeDocumentMoniker": "Food Menu\\Models\\CreateDishViewModel.cs",
+              "ToolTip": "C:\\Users\\syapa\\OneDrive\\Desktop\\ASP.NET Food Menu Web App\u0027s\\Food Menu\\Food Menu\\Models\\CreateDishViewModel.cs",
+              "RelativeToolTip": "Food Menu\\Models\\CreateDishViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T13:54:20.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\syapa\\OneDrive\\Desktop\\ASP.NET Food Menu Web App\u0027s\\Food Menu\\Food Menu\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Food Menu\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\syapa\\OneDrive\\Desktop\\ASP.NET Food Menu Web App\u0027s\\Food Menu\\Food Menu\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Food Menu\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-07T08:39:55.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Food Menu",
+              "DocumentMoniker": "C:\\Users\\syapa\\OneDrive\\Desktop\\ASP.NET Food Menu Web App\u0027s\\Food Menu\\Food Menu\\Food Menu.csproj",
+              "RelativeDocumentMoniker": "Food Menu\\Food Menu.csproj",
+              "ToolTip": "C:\\Users\\syapa\\OneDrive\\Desktop\\ASP.NET Food Menu Web App\u0027s\\Food Menu\\Food Menu\\Food Menu.csproj",
+              "RelativeToolTip": "Food Menu\\Food Menu.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-07T08:39:51.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\syapa\\OneDrive\\Desktop\\ASP.NET Food Menu Web App\u0027s\\Food Menu\\Food Menu\\Views\\Menu\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Food Menu\\Views\\Menu\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\syapa\\OneDrive\\Desktop\\ASP.NET Food Menu Web App\u0027s\\Food Menu\\Food Menu\\Views\\Menu\\Delete.cshtml",
+              "RelativeToolTip": "Food Menu\\Views\\Menu\\Delete.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T08:34:16.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\syapa\\OneDrive\\Desktop\\ASP.NET Food Menu Web App\u0027s\\Food Menu\\Food Menu\\Views\\Menu\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Food Menu\\Views\\Menu\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\syapa\\OneDrive\\Desktop\\ASP.NET Food Menu Web App\u0027s\\Food Menu\\Food Menu\\Views\\Menu\\Edit.cshtml",
+              "RelativeToolTip": "Food Menu\\Views\\Menu\\Edit.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T08:33:38.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\syapa\\OneDrive\\Desktop\\ASP.NET Food Menu Web App\u0027s\\Food Menu\\Food Menu\\Views\\Menu\\Create.cshtml",
+              "RelativeDocumentMoniker": "Food Menu\\Views\\Menu\\Create.cshtml",
+              "ToolTip": "C:\\Users\\syapa\\OneDrive\\Desktop\\ASP.NET Food Menu Web App\u0027s\\Food Menu\\Food Menu\\Views\\Menu\\Create.cshtml",
+              "RelativeToolTip": "Food Menu\\Views\\Menu\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvy4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T08:26:29.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\syapa\\OneDrive\\Desktop\\ASP.NET Food Menu Web App\u0027s\\Food Menu\\Food Menu\\Views\\Menu\\Details.cshtml",
+              "RelativeDocumentMoniker": "Food Menu\\Views\\Menu\\Details.cshtml",
+              "ToolTip": "C:\\Users\\syapa\\OneDrive\\Desktop\\ASP.NET Food Menu Web App\u0027s\\Food Menu\\Food Menu\\Views\\Menu\\Details.cshtml",
+              "RelativeToolTip": "Food Menu\\Views\\Menu\\Details.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T03:43:41.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\syapa\\OneDrive\\Desktop\\ASP.NET Food Menu Web App\u0027s\\Food Menu\\Food Menu\\Views\\Menu\\Index.cshtml",
+              "RelativeDocumentMoniker": "Food Menu\\Views\\Menu\\Index.cshtml",
+              "ToolTip": "C:\\Users\\syapa\\OneDrive\\Desktop\\ASP.NET Food Menu Web App\u0027s\\Food Menu\\Food Menu\\Views\\Menu\\Index.cshtml",
+              "RelativeToolTip": "Food Menu\\Views\\Menu\\Index.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T01:20:52.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\syapa\\OneDrive\\Desktop\\ASP.NET Food Menu Web App\u0027s\\Food Menu\\Food Menu\\Controllers\\Menu.cs",
+              "RelativeDocumentMoniker": "Food Menu\\Controllers\\Menu.cs",
+              "ToolTip": "C:\\Users\\syapa\\OneDrive\\Desktop\\ASP.NET Food Menu Web App\u0027s\\Food Menu\\Food Menu\\Controllers\\Menu.cs",
+              "RelativeToolTip": "Food Menu\\Controllers\\Menu.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAIwOMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T01:19:54.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250305011606_Initial_Migration.cs",
+              "DocumentMoniker": "C:\\Users\\syapa\\OneDrive\\Desktop\\ASP.NET Food Menu Web App\u0027s\\Food Menu\\Food Menu\\Migrations\\20250305011606_Initial_Migration.cs",
+              "RelativeDocumentMoniker": "Food Menu\\Migrations\\20250305011606_Initial_Migration.cs",
+              "ToolTip": "C:\\Users\\syapa\\OneDrive\\Desktop\\ASP.NET Food Menu Web App\u0027s\\Food Menu\\Food Menu\\Migrations\\20250305011606_Initial_Migration.cs",
+              "RelativeToolTip": "Food Menu\\Migrations\\20250305011606_Initial_Migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T01:16:06.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\syapa\\OneDrive\\Desktop\\ASP.NET Food Menu Web App\u0027s\\Food Menu\\Food Menu\\Program.cs",
+              "RelativeDocumentMoniker": "Food Menu\\Program.cs",
+              "ToolTip": "C:\\Users\\syapa\\OneDrive\\Desktop\\ASP.NET Food Menu Web App\u0027s\\Food Menu\\Food Menu\\Program.cs",
+              "RelativeToolTip": "Food Menu\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T00:52:29.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\syapa\\OneDrive\\Desktop\\ASP.NET Food Menu Web App\u0027s\\Food Menu\\Food Menu\\appsettings.json",
+              "RelativeDocumentMoniker": "Food Menu\\appsettings.json",
+              "ToolTip": "C:\\Users\\syapa\\OneDrive\\Desktop\\ASP.NET Food Menu Web App\u0027s\\Food Menu\\Food Menu\\appsettings.json",
+              "RelativeToolTip": "Food Menu\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-05T00:49:56.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuContext.cs",
+              "DocumentMoniker": "C:\\Users\\syapa\\OneDrive\\Desktop\\ASP.NET Food Menu Web App\u0027s\\Food Menu\\Food Menu\\Data\\MenuContext.cs",
+              "RelativeDocumentMoniker": "Food Menu\\Data\\MenuContext.cs",
+              "ToolTip": "C:\\Users\\syapa\\OneDrive\\Desktop\\ASP.NET Food Menu Web App\u0027s\\Food Menu\\Food Menu\\Data\\MenuContext.cs",
+              "RelativeToolTip": "Food Menu\\Data\\MenuContext.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T18:28:52.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ingredient.cs",
+              "DocumentMoniker": "C:\\Users\\syapa\\OneDrive\\Desktop\\ASP.NET Food Menu Web App\u0027s\\Food Menu\\Food Menu\\Models\\Ingredient.cs",
+              "RelativeDocumentMoniker": "Food Menu\\Models\\Ingredient.cs",
+              "ToolTip": "C:\\Users\\syapa\\OneDrive\\Desktop\\ASP.NET Food Menu Web App\u0027s\\Food Menu\\Food Menu\\Models\\Ingredient.cs",
+              "RelativeToolTip": "Food Menu\\Models\\Ingredient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T18:25:20.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DishIngredient.cs",
+              "DocumentMoniker": "C:\\Users\\syapa\\OneDrive\\Desktop\\ASP.NET Food Menu Web App\u0027s\\Food Menu\\Food Menu\\Models\\DishIngredient.cs",
+              "RelativeDocumentMoniker": "Food Menu\\Models\\DishIngredient.cs",
+              "ToolTip": "C:\\Users\\syapa\\OneDrive\\Desktop\\ASP.NET Food Menu Web App\u0027s\\Food Menu\\Food Menu\\Models\\DishIngredient.cs",
+              "RelativeToolTip": "Food Menu\\Models\\DishIngredient.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAA4wBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T18:21:10.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dish.cs",
+              "DocumentMoniker": "C:\\Users\\syapa\\OneDrive\\Desktop\\ASP.NET Food Menu Web App\u0027s\\Food Menu\\Food Menu\\Models\\Dish.cs",
+              "RelativeDocumentMoniker": "Food Menu\\Models\\Dish.cs",
+              "ToolTip": "C:\\Users\\syapa\\OneDrive\\Desktop\\ASP.NET Food Menu Web App\u0027s\\Food Menu\\Food Menu\\Models\\Dish.cs",
+              "RelativeToolTip": "Food Menu\\Models\\Dish.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T18:13:18.286Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

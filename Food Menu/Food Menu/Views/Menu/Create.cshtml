@@ -1,0 +1,54 @@
+﻿@model Food_Menu.ViewModels.CreateDishViewModel
+
+@{
+    ViewData["Title"] = "Create Dish";
+}
+
+<h2>Create Dish</h2>
+
+<form asp-action="Create" enctype="multipart/form-data" method="post">
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Price"></label>
+        <input asp-for="Price" class="form-control" />
+        <span asp-validation-for="Price" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="ImageFile">Dish Image</label>
+        <input asp-for="ImageFile" type="file" class="form-control" />
+        <span asp-validation-for="ImageFile" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label>Ingredients</label>
+        <div>
+            @if (Model.Ingredients != null && Model.Ingredients.Any())
+            {
+                foreach (var ingredient in Model.Ingredients)
+                {
+                    <div class="form-check">
+                        <input class="form-check-input" type="checkbox"
+                               name="SelectedIngredientIds"
+                               value="@ingredient.Id"
+                               id="ingredient_@ingredient.Id" />
+                        <label class="form-check-label" for="ingredient_@ingredient.Id">
+                            @ingredient.Name
+                        </label>
+                    </div>
+                }
+            }
+            else
+            {
+                <p>No ingredients available.</p>
+            }
+        </div>
+    </div>
+
+    <button type="submit" class="btn btn-success">Create Dish</button>
+</form>

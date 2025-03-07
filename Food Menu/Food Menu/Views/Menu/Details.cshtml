@@ -1,0 +1,26 @@
+﻿@model Food_Menu.Models.Dish
+
+@{
+    ViewData["Title"] = "Dish Details";
+}
+
+<div class="container">
+    <h3>@Model.Name</h3>
+    <img src="@Model.ImageUrl" style="width:50%;" alt="@Model.Name" />
+    <p><strong>Price:</strong> @Model.Price.ToString("N2") Dollars</p>
+    <h4>Ingredients:</h4>
+    <ul>
+        @if (Model.DishIngredients != null && Model.DishIngredients.Any())
+        {
+            foreach (var item in Model.DishIngredients)
+            {
+                <li>@item.Ingredient?.Name</li>
+            }
+        }
+        else
+        {
+            <li>No ingredients available</li>
+        }
+    </ul>
+    <a asp-action="Index" class="btn btn-info">Back to Menu</a>
+</div>
